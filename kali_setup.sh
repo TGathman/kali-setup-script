@@ -29,7 +29,7 @@ echo "=== Installing packages ==="
 sudo apt install -y \
     zsh \
     git \
-    curl \
+    curlie \
     wget \
     pipx \
     eza \
