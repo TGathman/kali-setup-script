@@ -1,4 +1,8 @@
-# My Kali Configuration
+# Kali HackTheBox Configuration Script
+
+## Summary
+
+This script will set up a new Kali linux install to include terminal customization, 
 
 ### Installation
 
