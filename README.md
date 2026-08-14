@@ -83,4 +83,4 @@ Atuin replaces your existing shell history with a SQLite database, and records a
 
 ## Closing
 
-As I continue to update this repo, I may add verisoning commits. I am also always looking for useful additional tools to add to Kali. As of right now, I don't use any agentic tools or AI outside of web-based Claude, ChatGPT, etc., but that may come in the future.
+As I continue to update this repo, I may add versioning commits. I am also always looking for useful additional tools to add to Kali. As of right now, I don't use any agentic tools or AI outside of web-based Claude, ChatGPT, etc., but that may come in the future.
